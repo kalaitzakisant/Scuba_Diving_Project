@@ -7,3 +7,12 @@ The 3 available notebooks can assist divers, snorkelers or software developers w
 1. Recognising Marine Animals using Photographs or Videos = Use the "_Detection Notebook_"
 2. Train a new Deep Learning model with your own marine animal dataset = Use the "_YOLOv7 Training - Scuba Diving Project_" notebook
 3. Annotate your Marine Animals Photographs with classes to develop your own Dataset with LabelImg software = Use the "_LabelImg_" notebook.
+
+
+1. Detection Notebook
+
+The detection notebook is used for detecting Marine Animals from previously taken photographs or videos. Currently it can recognise clownfish, trumpetfish, turtles, dolphins and corals.
+
+
+2. YOLOv7 Training - Scuba Diving Project
+
