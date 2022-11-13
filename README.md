@@ -8,6 +8,7 @@ The 3 available notebooks can assist divers, snorkelers or software developers w
 2. Train a new Deep Learning model with your own marine animal dataset = Use the "_YOLOv7 Training - Scuba Diving Project_" notebook
 3. Annotate your Marine Animals Photographs with classes to develop your own Dataset with LabelImg software = Use the "_LabelImg_" notebook.
 
+*Requirements* = Python 3.7 or higher, Jupyter notebook. You may install Jupyter Notebook using a Python Virtual Environment with command "pip install notebook".
 
 1. Detection Notebook
 
